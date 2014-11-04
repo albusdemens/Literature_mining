@@ -1,0 +1,56 @@
+
+
+*******************************************************************************
+Mon Nov  3 23:07:44 2014
+
+
+FIT:    data read from "list_codes.txt"
+        format = z
+BREAK:          bad data on line 1 of datafile
+
+
+
+*******************************************************************************
+Mon Nov  3 23:08:00 2014
+
+
+FIT:    data read from "list_codes.txt"
+        format = z
+        #datapoints = 8196
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2.45203e+18       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1.20609e+07
+
+initial set of free parameter values
+
+m               = 1
+q               = 1
+
+After 2 iterations the fit converged.
+final sum of squares of residuals : 6.81411e+16
+rel. change during last iteration : -1.30512e-07
+
+degrees of freedom    (FIT_NDF)                        : 8194
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 2.88374e+06
+variance of residuals (reduced chisquare) = WSSR/ndf   : 8.31597e+12
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+m               = 0.000121204      +/- 0.007614     (6282%)
+q               = 1.0028           +/- 1.299e+05    (1.295e+07%)
+
+
+correlation matrix of the fit parameters:
+
+               m      q      
+m               1.000 
+q              -0.969  1.000 
