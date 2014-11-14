@@ -1,0 +1,106 @@
+<ref id="alder1956study">
+  <author>Alder, Kurt and Bohr, Aage and Huus, Torben and Mottelson, Ben and Winther, Aage</author>
+  <journal>Reviews of modern physics</journal>
+  <title>Study of nuclear structure by electromagnetic excitation with accelerated ions</title>
+  <volume>28</volume>
+  <year>1956</year>
+  <type>article</type>
+  <pages>432--542</pages>
+</ref>
+
+<ref id="pethick2002bose">
+  <publisher>Cambridge university press</publisher>
+  <author>Pethick, Christopher and Smith, Henrik</author>
+  <title>Bose-Einstein condensation in dilute gases</title>
+  <year>2002</year>
+  <type>book</type>
+</ref>
+
+<ref id="clifford1985families">
+  <publisher>Springer</publisher>
+  <author>Clifford, Harold Trevor and Yeo, Peter</author>
+  <title>The families of the monocotyledons: structure, evolution, and taxonomy</title>
+  <year>1985</year>
+  <type>book</type>
+</ref>
+
+<ref id="kuorinka1987standardised">
+  <publisher>Elsevier</publisher>
+  <author>Kuorinka, Ilkka and Jonsson, Bengt and Kilbom, Asa and Vinterberg, Henrik and Biering-S{\o}rensen, Fin and Andersson, Gunnar and J{\o}rgensen, Kurt</author>
+  <journal>Applied ergonomics</journal>
+  <title>Standardised Nordic questionnaires for the analysis of musculoskeletal symptoms</title>
+  <number>3</number>
+  <volume>18</volume>
+  <year>1987</year>
+  <type>article</type>
+  <pages>233--237</pages>
+</ref>
+
+<ref id="arnett2006emerging">
+  <publisher>Taylor \& Francis</publisher>
+  <author>Arnett, Jeffrey Jensen</author>
+  <journal>Journal of youth studies</journal>
+  <title>Emerging Adulthood in Europe: A Response to Bynner 1 The author is currently a Fulbright Scholar at the University of Copenhagen.</title>
+  <number>1</number>
+  <volume>9</volume>
+  <year>2006</year>
+  <type>article</type>
+  <pages>111--123</pages>
+</ref>
+
+<ref id="arsene2005quark">
+  <publisher>Elsevier</publisher>
+  <author>Arsene, I and Bearden, IG and Beavis, D and Besliu, C and Budick, B and B{\o}ggild, H and Chasman, C and Christensen, CH and Christiansen, P and Cibor, J and others</author>
+  <journal>Nuclear Physics A</journal>
+  <title>Quark--gluon plasma and color glass condensate at RHIC? The perspective from the BRAHMS experiment</title>
+  <number>1</number>
+  <volume>757</volume>
+  <year>2005</year>
+  <type>article</type>
+  <pages>1--27</pages>
+</ref>
+
+<ref id="wakefield2005musculoskeletal">
+  <publisher>The Journal of Rheumatology</publisher>
+  <author>Wakefield, Richard J and Balint, Peter V and Szkudlarek, Marcin and Filippucci, Emilio and Backhaus, Marina and D'Agostino, Maria-Antonietta and Sanchez, Esperanza Naredo and Iagnocco, Annamaria and Schmidt, Wolfgang A and Bruyn, George AW and others</author>
+  <journal>The Journal of Rheumatology</journal>
+  <title>Musculoskeletal ultrasound including definitions for ultrasonographic pathology.</title>
+  <number>12</number>
+  <volume>32</volume>
+  <year>2005</year>
+  <type>article</type>
+  <pages>2485--2487</pages>
+</ref>
+
+<ref id="mahaux1985dynamics">
+  <publisher>Elsevier</publisher>
+  <author>Mahaux, Claude and Bortignon, PF and Broglia, RA and Dasso, CH</author>
+  <journal>Physics Reports</journal>
+  <title>Dynamics of the shell model</title>
+  <number>1</number>
+  <volume>120</volume>
+  <year>1985</year>
+  <type>article</type>
+  <pages>1--274</pages>
+</ref>
+
+<ref id="balslev1986postoperative">
+  <publisher>Wiley Online Library</publisher>
+  <author>Balslev, IB and Pedersen, Mogens and Teglbjaerg, Peter S and Hanberg-Soerensen, Finn and Bone, Joergen and Jacobsen, Niels O and Overgaard, Jens and Sell, Arne and Bertelsen, Kamma and Hage, Esther and others</author>
+  <journal>Cancer</journal>
+  <title>Postoperative radiotherapy in Dukes' B and C carcinoma of the rectum and rectosigmoid: a randomized multicenter study</title>
+  <number>1</number>
+  <volume>58</volume>
+  <year>1986</year>
+  <type>article</type>
+  <pages>22--28</pages>
+</ref>
+
+<ref id="marschner2012marschner">
+  <publisher>Academic press</publisher>
+  <author>Marschner, Horst and Marschner, Petra</author>
+  <title>Marschner's mineral nutrition of higher plants</title>
+  <volume>89</volume>
+  <year>2012</year>
+  <type>book</type>
+</ref>
